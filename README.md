@@ -86,7 +86,6 @@ run.py : Main file to run Flask app that classifies messages based on the model 
 
 ![Screenshot 2](https://github.com/Swatichanchal/Disaster-Response-Pipeline/blob/master/Screenshots/Web_App1.png)
 
-![Screenshot 3](https://github.com/Swatichanchal/Disaster-Response-Pipeline/blob/master/Screenshots/Web_App2.png)
 
 
 ### Acknowledgements:
