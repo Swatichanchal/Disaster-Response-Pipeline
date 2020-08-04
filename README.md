@@ -80,6 +80,16 @@ run.py : Main file to run Flask app that classifies messages based on the model 
 - Visual Studio Code
 - Udacity Project Workspace IDE
 
+### Screenshots:
+
+https://github.com/Swatichanchal/Disaster-Response-Pipeline/blob/master/Screenshots/Web_App.png
+
+https://github.com/Swatichanchal/Disaster-Response-Pipeline/blob/master/Screenshots/Web_App1.png
+
+https://github.com/Swatichanchal/Disaster-Response-Pipeline/blob/master/Screenshots/Web_App2.png
+
+
 ### Acknowledgements:
 1. [Udacity](www.udacity.com) for this Data Science Nanodegree Program.
 2. [Figure-Eight](www.figure-eight.com) for the relevant dataset.
+
