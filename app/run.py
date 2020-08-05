@@ -70,7 +70,7 @@ def index():
                 'xaxis': {
                     'title': "Genre"
                 },
-                'width': 700,
+                'width': 1000,
                 'height': 700,
                 'margin': dict(
                     pad=10,
@@ -128,10 +128,10 @@ def index():
                 'margin': dict(
                     pad=10,
                     b=150,
-                )
+                    )
+                }
             }
-        }
-    ]
+        ]
     
     # encode plotly graphs in JSON
     ids = ["graph-{}".format(i) for i, _ in enumerate(graphs)]
