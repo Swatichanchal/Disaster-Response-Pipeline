@@ -77,7 +77,7 @@ run.py : Main file to run Flask app that classifies messages based on the model 
 
 3. Go to 
 
-           ` http://0.0.0.0:3001/`
+  `http://0.0.0.0:3001/`
 
 #### Note: Notebook Folder is not essential to run the Web App.
 
